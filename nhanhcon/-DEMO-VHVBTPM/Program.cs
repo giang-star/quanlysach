@@ -44,8 +44,6 @@ namespace _DEMO_VHVBTPM
                 {
                     dem++;
                 }
-
-
             }
             Console.WriteLine(" so lan xuat hien la:" + dem);
 
